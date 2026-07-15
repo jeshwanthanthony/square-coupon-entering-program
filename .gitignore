@@ -1,0 +1,9 @@
+.venv/
+venv/
+square_bot_chrome_profile/
+.square_profile/
+codes.csv
+results.csv
+__pycache__/
+.DS_Store
+
